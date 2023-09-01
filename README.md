@@ -1,2 +1,1 @@
-# hi
-can i speak E
+First contact with GitHub
